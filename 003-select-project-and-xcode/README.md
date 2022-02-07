@@ -25,7 +25,7 @@ Choose which directory:
 	(2): /Users/your_user/Repositories/CarCoolant
 	(3): /Users/your_user/Repositories/CoolProject
 Choose which directory and press <Enter>: 3
-Directory (1) was selected /Users/your_user/Repositories/CoolProject]
+Directory (3) was selected /Users/your_user/Repositories/CoolProject]
 
 
 Choose which project file:
@@ -51,5 +51,5 @@ Selected: Xcode 12.5.1
 Don't forget to add an alias so you can call this without any extra effort:
 
 ```
-alias xcodestart="sh /Users/your_user/Documents/Development/Scripts/xcode_selection.sh --dir=/Users/your_user/Repositories"
+alias xcodestart="sh /Users/your_user/Documents/Development/Scripts/select-project-and-xcode.sh --dir=/Users/your_user/Repositories"
 ```
