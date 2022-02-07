@@ -39,7 +39,7 @@ On branch feature/new_feature
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
   (use "git restore <file>..." to discard changes in working directory)
-	modified:   PersonalProtection/PersonalProtection.xcodeproj/project.pbxproj
+	modified:   CoolProject/CoolProject.xcodeproj/project.pbxproj
 
 no changes added to commit (use "git add" and/or "git commit -a")
 ----------> Undoing temporary commit
