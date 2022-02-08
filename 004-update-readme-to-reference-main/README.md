@@ -3,7 +3,7 @@
 ## What's up with this script?
 
 ### TLDR
-Replace develop for main in the main `README` file
+Replace `develop` for `main` in the root `README` file
 
 ### A little bit of history
 When doing a release I want to make sure that the index links are pointing to the expected branch.
@@ -13,7 +13,7 @@ Up until adding the first 3 scripts everything was just in the `develop` branch 
 ### Execution and Output
 
 ```
-~ % python3  /Users/your_user/Repository/AutomationEndevours/004-update-readme-to-reference-main/update-readme-to-references-main.py 
+~ % python3  /Users/your_user/Repository/AutomationEndevours/004-update-readme-to-reference-main/update-readme-to-reference-main.py 
 
 Do you need a custom directory path? (y/n) n
 Selected directory is: /Users/your_user/Repository/AutomationEndevours/
