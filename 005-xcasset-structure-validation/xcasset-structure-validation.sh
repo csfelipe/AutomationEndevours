@@ -17,7 +17,7 @@ for ASSET in $ASSETS; do
 	fi
 done
 
-# In case we hava invalid directories or items then we should raise an error
+# In case we have invalid directories or items then we should raise an error
 if [[ ${#INVALID_DIRECTORIES[@]} -gt 0 ]] 
 then
     echo "error: XCAsset Structure violation"

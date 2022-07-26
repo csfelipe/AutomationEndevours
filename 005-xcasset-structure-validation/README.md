@@ -14,7 +14,7 @@ If there's any sub-directory or any images that have spaces in their names then 
 1. Open `Xcode`
 2. Tap on the `Project Navigator`
 3. Tap on your `Target`
-4. Tap on `Build Phase`
+4. Tap on `Build Phases`
 5. Tap on the `+` button and select `New Run Script Phase`
 6. Fill in the editor with this script:
 - Use only script content: copy and paste everything from this script in that small editor space
